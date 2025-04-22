@@ -1,0 +1,28 @@
+"I want to create an immersive 3D globe visualization that accurately represents the Earth. My goals are:
+
+Develop a React Three Fiber component for a photorealistic Earth model with the following specifications:
+
+High-quality textures showing landmasses, water, and cloud layers
+Realistic lighting that highlights surface details
+Smooth rotation and interactive features
+Ability to detect and highlight geographic regions
+Technical Requirements:
+
+Use React Three Fiber and Three.js for 3D rendering
+Implement texture loading with error handling
+Create an interactive experience with hover and pointer move events
+Add orbital controls for user interaction
+Implement region detection based on sphere coordinates
+Design Considerations:
+
+Ensure the globe has a dark space background
+Use a balanced color palette that makes landmasses and water clearly distinguishable
+Add subtle atmospheric glow
+Implement smooth cloud layer with partial transparency
+Adjust camera field of view for optimal visual appeal
+Additional Features:
+
+Toggle rotation on/off
+Highlight different regions when hovering over the globe
+Provide loading and error states for texture rendering
+Bonus points for using placeholder images from Unsplash to create realistic textures and lighting effects."
