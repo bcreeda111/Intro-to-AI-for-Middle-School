@@ -1,28 +1,45 @@
-"I want to create an immersive 3D globe visualization that accurately represents the Earth. My goals are:
+"Create a React Three Fiber application that visualizes an interactive, photorealistic 3D globe with the following key features:
 
-Develop a React Three Fiber component for a photorealistic Earth model with the following specifications:
-
-High-quality textures showing landmasses, water, and cloud layers
-Realistic lighting that highlights surface details
-Smooth rotation and interactive features
-Ability to detect and highlight geographic regions
 Technical Requirements:
 
 Use React Three Fiber and Three.js for 3D rendering
-Implement texture loading with error handling
-Create an interactive experience with hover and pointer move events
+Implement a detailed Earth sphere with:
+Realistic landmass textures
+Partially transparent cloud layer
+Subtle atmospheric glow
+Implement region detection and highlighting on hover
 Add orbital controls for user interaction
-Implement region detection based on sphere coordinates
-Design Considerations:
+Create a background of randomly distributed stars
+Handle texture loading with robust error management
+Functional Features:
 
-Ensure the globe has a dark space background
-Use a balanced color palette that makes landmasses and water clearly distinguishable
-Add subtle atmospheric glow
-Implement smooth cloud layer with partial transparency
-Adjust camera field of view for optimal visual appeal
-Additional Features:
+Globe rotation toggle (start/pause)
+Hover over different geographic regions to display region information
+Smooth, interactive 3D rendering
+Responsive design that works across different screen sizes
+Specific Implementation Details:
 
-Toggle rotation on/off
-Highlight different regions when hovering over the globe
-Provide loading and error states for texture rendering
-Bonus points for using placeholder images from Unsplash to create realistic textures and lighting effects."
+Use high-resolution textures for earth, clouds, normal, and specular maps
+Implement a Stars component with randomly positioned points
+Use @react-three/drei for orbit controls
+Create loading and error states for texture rendering
+Use a dark space-themed background
+Implement lat/long conversion for region detection
+UI/UX Considerations:
+
+Provide clear visual feedback during texture loading
+Create a minimalist, space-themed interface
+Ensure smooth camera controls and rotation
+Display region information in an overlay when hovering over different areas
+Performance and Optimization:
+
+Efficient texture loading with fallback mechanisms
+Optimize rendering performance
+Implement smooth animation and interaction
+Technology Stack:
+
+React
+React Three Fiber
+Three.js
+TypeScript
+Tailwind CSS for styling
