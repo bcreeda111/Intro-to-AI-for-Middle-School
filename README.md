@@ -1,6 +1,6 @@
 # Intro to AI for Middle School – Classroom Prompt Library
 
-Welcome to the **AI Creativity Lab**, a collection of tested prompts and tools designed to bring creativity and learning to life in the classroom. These hands-on exercises help middle school students explore storytelling, design, music, and coding using today’s most powerful generative AI tools.
+Welcome to the **Middle School AI Prompt Library**, a collection of tested prompts and tools designed to bring creativity and learning to life in the classroom. These hands-on exercises help middle school students explore storytelling, design, music, and coding using today’s most powerful generative AI tools.
 
 ---
 
@@ -50,15 +50,7 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
 - Use each prompt as-is or integrate them into your lesson plans
 - Encourage remixing, iteration, and sharing among students
 
----
 
-## 📂 File Structure (Optional Enhancement)
-```plaintext
-.
-├── prompts/
-│   ├── DS-Pixar-style-images.md
-│   ├── DS-Voice-Clone.md
-│   └── ...
 ├── assets/
 │   ├── example-images/
 │   └── ...
