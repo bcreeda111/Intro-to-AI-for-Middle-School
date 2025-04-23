@@ -46,6 +46,13 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
 - **Tool**:  https://gamma.app/
 - **Prompt**: `DS-Create-Presentation`
 
+---
+## 📁 Example Assets
+
+To get started quickly, explore the `assets-example/` folder. It includes:
+
+- Sample images   
+- A sample presentation outlining the 4 day course  
 
 ---
 
