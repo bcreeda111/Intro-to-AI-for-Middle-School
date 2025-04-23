@@ -50,8 +50,3 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
 - Use each prompt as-is or integrate them into your lesson plans
 - Encourage remixing, iteration, and sharing among students
 
-
-├── assets/
-│   ├── example-images/
-│   └── ...
-└── README.md
