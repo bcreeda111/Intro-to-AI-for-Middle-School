@@ -17,7 +17,7 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
 - **Prompt**: `DS-Voice-Clone`
 
 ### 3. Design a Custom Action Figure
-- **Tool**: ChatGPT (DALL·E)
+- **Tool**: ChatGPT (GPT-4o) 
 - **Prompt**: `DS-Action-Figure-Image`
 
 ### 4. Animate an Action Figure
