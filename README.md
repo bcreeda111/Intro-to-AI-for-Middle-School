@@ -1,47 +1,65 @@
-Intro to AI for Middle School  – Classroom Prompt Library
-Welcome to the AI Creativity Lab – a collection of tested prompts and tools that bring creativity and learning to life in the classroom. These exercises are designed to help students explore storytelling, design, voice, music, and software development using today’s most powerful generative AI tools.
+# Intro to AI for Middle School – Classroom Prompt Library
 
-🚀 Exercises & Prompts
-Each item below includes a recommended tool and prompt to guide classroom use:
+Welcome to the **AI Creativity Lab**, a collection of tested prompts and tools designed to bring creativity and learning to life in the classroom. These hands-on exercises help middle school students explore storytelling, design, music, and coding using today’s most powerful generative AI tools.
 
-1. Create Pixar-Style Characters
-Tool: ChatGPT (o4)
-Prompt: DS-Pixar-style-images
+---
 
-2. Clone Voice for Fun Dialogues
-Tool: ElevenLabs
-Prompt: DS-Voice-Clone
+## 🚀 Exercises & Prompts
 
-3. Design a Custom Action Figure
-Tool: ChatGPT (DALL·E)
-Prompt: DS-Action-Figure-Image
+Each activity below includes a recommended AI tool and a prompt for classroom use. Adapt as needed or let students explore freely.
 
-4. Animate an Action Figure
-Tool: Nim.Video
-Prompt: DS-Action-Figure-Animation
+### 1. Create Pixar-Style Characters
+- **Tool**: ChatGPT (GPT-4o)
+- **Prompt**: `DS-Pixar-style-images`
 
-5. Superhero Transformation
-Tools: Sora, Kling.ai
-Prompt: DS-Superhero-Video
+### 2. Clone Voice for Fun Dialogues
+- **Tool**: ElevenLabs
+- **Prompt**: `DS-Voice-Clone`
 
-6. 3D Classroom Object
-Tool: Meshy AI
-Prompt: Simply upload a photo and meshy does the rest
+### 3. Design a Custom Action Figure
+- **Tool**: ChatGPT (DALL·E)
+- **Prompt**: `DS-Action-Figure-Image`
 
-7. Make a Custom Song
-Tool: Suno.com
-Prompt Idea: "Create a 30-second pop song about recess, featuring robot backup singers."
+### 4. Animate an Action Figure
+- **Tool**: Nim.Video
+- **Prompt**: `DS-Action-Figure-Animation`
 
-8. Build a Working App
-Tools: 
-Planning: ChatGPT
-Coding: Lovable.dev
-Prompt: DS-Earth-Example
+### 5. Superhero Transformation
+- **Tools**: Sora, Kling.ai
+- **Prompt**: `DS-Superhero-Video`
 
+### 6. 3D Classroom Object
+- **Tool**: Meshy AI
+- **Prompt**: Upload a photo – Meshy handles the 3D rendering
 
-🧠 How to Use This Repo
-Clone the repo or fork it to your own classroom/organization.
+### 7. Make a Custom Song
+- **Tool**: [Suno.com](https://suno.com/)
+- **Prompt Idea**: "Create a 30-second pop song about recess, featuring robot backup singers."
 
-Use each prompt as a guided activity or adapt it to your lesson plan.
+### 8. Build a Working App
+- **Tools**:  
+  - *Planning*: ChatGPT  
+  - *Coding*: Lovable.dev  
+- **Prompt**: `DS-Earth-Example`
 
-Encourage students to remix, iterate, and share their creations.
+---
+
+## 🧠 How to Use This Repo
+
+- Clone or fork this repo to use in your own classroom or organization
+- Use each prompt as-is or integrate them into your lesson plans
+- Encourage remixing, iteration, and sharing among students
+
+---
+
+## 📂 File Structure (Optional Enhancement)
+```plaintext
+.
+├── prompts/
+│   ├── DS-Pixar-style-images.md
+│   ├── DS-Voice-Clone.md
+│   └── ...
+├── assets/
+│   ├── example-images/
+│   └── ...
+└── README.md
