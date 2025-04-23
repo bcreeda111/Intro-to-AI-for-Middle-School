@@ -13,7 +13,7 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
 - **Prompt**: `DS-Pixar-style-images`
 
 ### 2. Clone Voice for Fun Dialogues
-- **Tool**: ElevenLabs
+- **Tool**: [ElevenLabs](https://elevenlabs.io/)
 - **Prompt**: `DS-Voice-Clone`
 
 ### 3. Design a Custom Action Figure
@@ -21,7 +21,7 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
 - **Prompt**: `DS-Action-Figure-Image`
 
 ### 4. Animate an Action Figure
-- **Tool**: Nim.Video
+- **Tool**: [Nim.Video](https://nim.video/explore)
 - **Prompt**: `DS-Action-Figure-Animation`
 
 ### 5. Superhero Transformation
@@ -29,7 +29,7 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
 - **Prompt**: `DS-Superhero-Video`
 
 ### 6. 3D Classroom Object
-- **Tool**: Meshy AI
+- **Tool**: [Meshy AI](https://www.meshy.ai/discover) 
 - **Prompt**: Upload a photo – Meshy handles the 3D rendering
 
 ### 7. Make a Custom Song
@@ -41,6 +41,11 @@ Each activity below includes a recommended AI tool and a prompt for classroom us
   - *Planning*: ChatGPT  
   - *Coding*: Lovable.dev  
 - **Prompt**: `DS-Earth-Example`
+
+### 9. Create Presentation
+- **Tool**:  https://gamma.app/
+- **Prompt**: `DS-Create-Presentation`
+
 
 ---
 
